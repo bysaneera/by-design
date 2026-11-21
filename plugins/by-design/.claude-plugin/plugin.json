@@ -1,0 +1,20 @@
+{
+  "name": "by-design",
+  "version": "1.0.0",
+  "description": "Design pack for social media: composition foundation, style presets and layers, motion for Stories and graphic Reels, guided setup.",
+  "keywords": [
+    "smm",
+    "instagram",
+    "design",
+    "carousel",
+    "stories",
+    "reels",
+    "motion"
+  ],
+  "author": {
+    "name": "Sanira Baitasova"
+  },
+  "license": "CC-BY-4.0",
+  "repository": "https://github.com/bysaneera/by-design",
+  "homepage": "https://github.com/bysaneera/by-design"
+}

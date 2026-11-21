@@ -1,0 +1,32 @@
+{
+  "name": "by-design",
+  "owner": {
+    "name": "Sanira Baitasova"
+  },
+  "metadata": {
+    "description": "Social media design pack: composition foundation, 10 style presets + 7 layers, motion for Stories and graphic Reels, guided setup.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "by-design",
+      "source": "./plugins/by-design",
+      "description": "Social media design pack: composition foundation, 10 style presets + 7 layers, motion for Stories and graphic Reels, guided setup.",
+      "category": "design",
+      "keywords": [
+        "smm",
+        "instagram",
+        "design",
+        "carousel",
+        "stories",
+        "reels",
+        "motion",
+        "claude-design"
+      ],
+      "author": {
+        "name": "Sanira Baitasova"
+      },
+      "license": "CC-BY-4.0"
+    }
+  ]
+}
