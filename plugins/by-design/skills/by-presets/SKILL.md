@@ -743,4 +743,4 @@ The main thing: the promotion must be recognisably "this brand". A Minimal brand
 - **Combining:** the visual language (fonts, colour, photo) stays with the brand's base preset; Promo adds hierarchy and promo elements in the form the base preset allows (in Minimal — no plates).
 
 ---
-Author: Sanira Baitasova. Part of the by skills collection.
+Author: Sanira Baitassova. Part of the by skills collection.

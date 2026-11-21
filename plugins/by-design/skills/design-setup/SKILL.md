@@ -44,4 +44,4 @@ Ask whether to set up a brand now. If yes — run by-composition "Starting a new
 - Read only: no pinning, following, posting or editing on the user's accounts.
 
 ---
-Author: Sanira Baitasova. Part of the by skills collection.
+Author: Sanira Baitassova. Part of the by skills collection.

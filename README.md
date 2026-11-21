@@ -1,6 +1,6 @@
 # by-design — SMM design skills for Claude
 
-Created by **Sanira Baitasova**.
+Created by **Sanira Baitassova**.
 
 | Skill | What it does |
 |---|---|
@@ -73,4 +73,4 @@ Claude only **reads** your accounts — it never posts, pins, likes, follows or 
 No personal data, accounts or libraries ship with these skills. Every user's settings, libraries and brand memory live in their own Claude account.
 
 ## Author and licence
-All skills in this repository were created by **Sanira Baitasova**. Licensed under [CC BY 4.0](LICENSE): you can use, share and adapt them, including commercially, as long as you credit the author.
+All skills in this repository were created by **Sanira Baitassova**. Licensed under [CC BY 4.0](LICENSE): you can use, share and adapt them, including commercially, as long as you credit the author.

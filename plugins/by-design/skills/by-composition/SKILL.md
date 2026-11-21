@@ -494,4 +494,4 @@ You do this.
 - After publishing offer to add a line to the publishing log in `learned.md`.
 
 ---
-Author: Sanira Baitasova. Part of the by skills collection.
+Author: Sanira Baitassova. Part of the by skills collection.

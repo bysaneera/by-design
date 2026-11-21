@@ -200,4 +200,4 @@ Modes and independent reviewers — as in by-composition. In addition:
 Same as "Learning on the project" in by-composition: the user's edits on motion ("slower", "no bounce", "sharper cuts") are recorded in `learned.md` as a separate line "Motion: …" in the "Rules" section, with the user's OK. Reels statistics (retention, completion) are analysed per "What worked — by statistics"; a retention drop in the first 2 s is a signal to redo the hook.
 
 ---
-Author: Sanira Baitasova. Part of the by skills collection.
+Author: Sanira Baitassova. Part of the by skills collection.
