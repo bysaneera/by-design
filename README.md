@@ -18,11 +18,16 @@ Looking for trend research and content ideas? See **[by-content](https://github.
 ## Install
 
 ### Option 1 — by link (recommended)
-**Claude app (desktop / web):** **Plugins** → **Add custom plugin** (in some versions: Customize → Plugins → Add marketplace) → paste
+**Claude app (desktop / web):**
+1. Open **Customize** → **Plugins** → **Manage marketplaces** → **Add marketplace** and paste the link below.
+2. Click **Done**, find **by-design** in the plugins list and click **Install**.
+3. To get updates later: **Manage marketplaces** → **…** next to by-design → sync.
+
 ```
 https://github.com/bysaneera/by-design
 ```
-then install **by-design**. Plugins work where Claude runs tasks with tools (the desktop app's task mode and Claude Code), not in a plain chat.
+
+The marketplace is only the source — the plugin itself still needs **Install**. Plugins work where Claude runs tasks with tools (the desktop app's task mode and Claude Code), not in a plain chat.
 
 **Claude Code:**
 ```
@@ -33,7 +38,7 @@ then install **by-design**. Plugins work where Claude runs tasks with tools (the
 **Organisations:** organisation-wide sync from GitHub works only with private or internal repositories connected through the Claude GitHub App — an admin can fork this repo privately and sync that, or upload the file below.
 
 ### Option 2 — upload the file
-Download [`dist/by-design.zip`](dist/by-design.zip) (or the identical [`dist/by-design.plugin`](dist/by-design.plugin)) and upload it in Claude: Plugins → Add custom plugin → upload the file.
+Download [`dist/by-design.zip`](dist/by-design.zip) (or the identical [`dist/by-design.plugin`](dist/by-design.plugin)) and upload it in Claude: Customize → Plugins → upload a plugin file.
 
 ---
 
