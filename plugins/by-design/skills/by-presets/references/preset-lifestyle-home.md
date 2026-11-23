@@ -3,7 +3,7 @@
 Part of the by-presets skill. Read together with its SKILL.md.
 
 ### Lifestyle / Home
-Board for refinement (optional): `preset-home`. Restaurants and food presentation are a separate Food layer.
+Restaurants and food presentation are a separate Food layer.
 - **For whom:** home and living goods — interiors, furniture, lighting, finishing materials, kitchen and home appliances, cookware, textiles, home care, packaged food and drinks for the home, brand recipes.
 - **Character:** warm, homely, about the usage scenario: the product in life, not in a shop window. References show two registers: dark interior (wood, deep tones, spot lighting) and light kitchen (beige, morning, window) — choose by the brand.
 - **Typography:** a soft grotesque or a serif with character; handwriting — only as an accent of one or two words.

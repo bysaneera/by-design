@@ -3,7 +3,6 @@
 Part of the by-presets skill. Read together with its SKILL.md.
 
 ### Fintech / Tech
-Board for refinement (optional): `preset-tech`.
 - **For whom:** apps, fintech services, SaaS, AI services, online platforms, digital products.
 - **Character:** digital, modern, "like an interface". As in Corporate, **the text's meaning and data are visualised**, but in the language of an interface: buttons, chips, cards, notifications, flows. The difference from Corporate: there strict tables and thin lines, here live product elements, radii, glass, gradients.
 

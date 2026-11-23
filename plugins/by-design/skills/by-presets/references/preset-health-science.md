@@ -3,7 +3,6 @@
 Part of the by-presets skill. Read together with its SKILL.md.
 
 ### Health / Science
-Board for refinement (optional): `preset-health`.
 - **For whom:** supplements and vitamins, nutrition, clinics and labs, tests and biomarkers, telemedicine, pharma, evidence-based wellness.
 - **Character:** "science that's pleasant to read". Calm, precise, trustworthy; the body and nature in close-up. The difference from Editorial: there sensations and atmosphere, here explaining the mechanism and evidence. The difference from Corporate: the same principle of "meaning visualised", but the language is biological (cells, molecules, organs, textures), not tables.
 

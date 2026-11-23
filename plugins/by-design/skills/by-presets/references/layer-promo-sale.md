@@ -3,7 +3,6 @@
 Part of the by-presets skill. Read together with its SKILL.md.
 
 ### Promo / Sale — a layer for promotions
-Board for refinement (optional): `preset-promo`.
 - **For whom:** promotions, discounts, sales, launches with a price, giveaways, promo codes, seasonal sales — for any brand.
 - **Character:** clear and fast: what, how much, until when.
 - **Promo is a layer, like Food.** Record: "Preset: Minimal + Promo" or by pillar: "Pillar 'Promotions' → + Promo". **The main styling comes from the first preset** (fonts, grid, photo, amount of decoration, brand colour). **From Promo — the promotion's hierarchy and promo elements** (price, percentage, old price, deadline badge, promo code, timer), but drawn in the first preset's language. Stylistic promo devices from Promo references can also be taken (as an additional device per the combining rule) if they don't break the first preset.

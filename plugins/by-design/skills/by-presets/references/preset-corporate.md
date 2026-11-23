@@ -3,7 +3,6 @@
 Part of the by-presets skill. Read together with its SKILL.md.
 
 ### Corporate
-Board for refinement (optional): `preset-corporate`.
 - **For whom:** banks, brokers, insurance, consulting, B2B, business education, the public sector.
 - **Character:** modern corporate — clear, structured, calm, but not boring. **The main thing — the meaning of the text is clear to everyone, and it's shown visually.**
 

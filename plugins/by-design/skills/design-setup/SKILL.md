@@ -1,6 +1,6 @@
 ---
 name: design-setup
-description: "First-time setup and settings for the SMM design skills (by-composition, by-presets, by-motion): \"set up the design skills\", \"connect my Pinterest boards\", \"set up my brand\", \"change languages / publishing method\". Saves the user's design settings and can start a brand Design System."
+description: "First-time setup and settings for the SMM design skills (by-composition, by-presets, by-motion): \"set up the design skills\", \"set up my brand\", \"change languages / publishing method\". Saves the user's design settings and can start a brand Design System."
 ---
 
 # Design setup — onboarding for composition, presets and motion
@@ -21,21 +21,14 @@ Look for existing settings: memory (a line starting "by design settings"), the p
 - How posts are usually published: manually in the app / auto-posting (Metricool or similar — max 4:5) / paid ads. This sets the default format in by-composition step 0b.
 - Is Metricool (or another analytics tool) connected? If yes, the "What worked — by statistics" review is available.
 
-## Step 4. Pinterest boards (optional)
-Purpose: refine presets and the motion library from the user's own references.
-1. Ask for the Pinterest profile URL; open it in the user's browser (load the browser skill if listed) and confirm the boards list is visible (the user logs in themselves if needed).
-2. List which convention boards exist: `composition`, `preset-corporate`, `preset-tech`, `preset-health`, `preset-bold`, `preset-minimal`, `preset-cute`, `preset-street`, `preset-home`, `preset-beauty`, `preset-auto`, `preset-real-estate`, `preset-holidays`, `preset-cultural`, `preset-food`, `preset-promo`, `motion-design` (see by-presets, "Extending presets with your own boards"). Show found / missing; offer the user to create any they want (they create them; never create, pin or edit on their behalf).
-3. Record each found board with its current pin count and today's date as the baseline for future analyses.
-4. Optional: offer a weekly scheduled task "analyse new pins on my preset boards and propose card edits" using the session's scheduling tools; edits are still applied only after the user's OK.
-
-## Step 5. Instagram (optional)
+## Step 4. Instagram (optional)
 Ask for the user's own or main client accounts to use as references for "Grid plan" and "Starting a new brand" (read only). Open one in the browser to confirm access.
 
-## Step 6. Brands (optional)
+## Step 5. Brands (optional)
 Ask whether to set up a brand now. If yes — run by-composition "Starting a new brand": questionnaire → 2–3 cover directions → create the brand's Design System in Claude Design with `project/learned.md` and a "Preset: X" line. Otherwise mention that it happens automatically the first time a post is made for a new brand.
 
 ## Saving
-- If memory tools exist, save one compact line: "by design settings: market <…>; languages <…> (primary <…>); publishing <…>; Pinterest <url>; boards <name:count@date, …>". Otherwise propose the same text for the project instructions.
+- If memory tools exist, save one compact line: "by design settings: market <…>; languages <…> (primary <…>); publishing <…>". Otherwise propose the same text for the project instructions.
 - If a Trend Library exists, also `db_write` the same fields to `settings/design` (`set`, or `merge` with `ifVersion`).
 - Finish with a compact summary: what's connected (✓), what was skipped, and one next step ("Send me a post text and I'll lay it out").
 

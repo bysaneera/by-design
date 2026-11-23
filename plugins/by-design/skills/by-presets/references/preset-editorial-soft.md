@@ -3,7 +3,6 @@
 Part of the by-presets skill. Read together with its SKILL.md.
 
 ### Editorial / Soft
-Board for refinement (optional): `composition`.
 - **For whom:** wellness, cosmetics and skincare, water, natural products, brands "about sensations".
 - **Character:** soft, editorial, lots of air, quiet.
 - **Typography:** grotesque 300–400, accent by size, not weight. A two-tone headline: the first part in the main colour, the continuation quieter ("Anyone can launch. Few launch to last."). A serif as a rare accent: quotes, large numbers, one italic word in a grotesque phrase ("*Balance* your barrier").

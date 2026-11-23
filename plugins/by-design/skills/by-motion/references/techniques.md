@@ -72,4 +72,4 @@ A transition is part of the technique, not a separate effect: it continues the m
   - In any combination — one set of curves, one preset tempo, one transition type: the video looks like one system, not a set of effects. The combination is chosen for the point; each technique shows its part of the thought.
   - In a content pillar — the same set of techniques episode after episode. A technique moves at the preset's tempo (table above): M1 in Bold is cut on the beat, in Editorial — slowly from under masks.
 - Reading time and zones apply to all techniques: decorative motion stops while text to be read is on screen.
-- New references (e.g. the user's own motion board) — analyse the same way: video frames at 7 points, technique → an existing M or a new number, with the user's OK.
+- New motion references the user sends — analyse the same way: video frames at 7 points, technique → an existing M or a new number, with the user's OK.

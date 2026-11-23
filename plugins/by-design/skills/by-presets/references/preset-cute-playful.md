@@ -3,7 +3,6 @@
 Part of the by-presets skill. Read together with its SKILL.md.
 
 ### Cute / Playful
-Board for refinement (optional): `preset-cute`.
 - **For whom:** kids' goods and toys, cafés and desserts, young cosmetics, concept stores and markets, cultural events, creative studios, hobbies, workshops.
 - **Character:** cute and playful, but tasteful — "designerly", not kindergarten. Handmade and human (doodles, kids' drawings, stickers) on a neat, airy base. Play is in the details; grid and margins are kept.
 

@@ -3,7 +3,6 @@
 Part of the by-presets skill. Read together with its SKILL.md.
 
 ### Cultural code
-Board for refinement (optional): `preset-cultural`.
 - **For whom:** local brands with a national identity, the public sector, national holidays, collaborations with culture. The motifs come from the **brand's market** (the user's local market by default; ask if unclear).
 - **Principle:** stylish and contemporary, not souvenir-like. The ornament works as a grid, texture or detail, not a border along the edge; local textures and objects; text in the national language — with a check of all the font's glyphs (A11).
 - **Translating foreign examples.** References from other cultures are a model of approach, not of motifs: take the device (how a Chinese Year of the Horse poster builds typography around a sign, how an Uzbek tea bowl becomes the hero of an illustration), while the signs, objects and words come from the brand's own culture. Ornaments of one culture aren't transferred to a brand of another.

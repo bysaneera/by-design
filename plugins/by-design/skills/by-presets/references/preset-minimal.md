@@ -3,7 +3,7 @@
 Part of the by-presets skill. Read together with its SKILL.md.
 
 ### Minimal
-Board for refinement (optional): `preset-minimal`. This also covers premium and luxury.
+This also covers premium and luxury.
 - **For whom:** designer clothing and accessories, jewellery, watches, premium cosmetics, hotels, studios, architecture and interiors, galleries, cultural projects, archives and lookbooks.
 - **Character:** quiet, structured, expensive; air is the main material. **The essence of the preset isn't in the text but in how the photos are shown:** their size, cropping and position on the grid. Playing with the image — yes, but never "put it there because it's pretty".
 

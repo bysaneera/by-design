@@ -15,7 +15,7 @@ Part of the by-presets skill. Read together with its SKILL.md.
   - **Global / cross-market:** Lunar New Year, Ramadan and Eid, Diwali, International Women's Day, Earth Day, Singles' Day 11.11, World Kindness Day.
 - **Works as a layer:** the brand stays itself, the holiday adds 1–2 recognisable elements (a symbol, a seasonal object, an accent colour within the palette) and an occasion in the text. No stock clichés (clip-art trees, pumpkins and turkeys from stock, ready-made card templates). National holidays and state days — together with the Cultural code layer.
 - **Sensitivity:** religious and cultural holidays — only if the brand marks them, with respect and without making them a sales gimmick (Ramadan, Hanukkah, Diwali, Easter); heritage and remembrance days (Memorial Day, Juneteenth, MLK Day, Veterans Day) — respectful tone, no "sale" framing unless the client insists and it's common practice in the market; Pride — only if the brand genuinely supports it.
-- Board for refinement (optional): `preset-holidays`. References fall into three groups: cultural and national (national holidays, city day, statehood days), spring and seasons, autumn and winter holidays.
+- References fall into three groups: cultural and national (national holidays, city day, statehood days), spring and seasons, autumn and winter holidays.
 - **Cultural and national:**
   - an ornament or textile as the poster's framework, an invitation in a carpet frame;
   - stills from classic national cinema with the title and year — only with rights;

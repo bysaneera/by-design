@@ -3,7 +3,6 @@
 Part of the by-presets skill. Read together with its SKILL.md.
 
 ### Real Estate
-Board for refinement (optional): `preset-real-estate`.
 - **For whom:** developers, residential complexes, real estate agencies, rentals, architecture and construction firms.
 - **Character from references:** not "selling square metres" but an editorial story about architecture, materials and people: a serif or thin grotesque, dark and warm tones, lots of air, little text on photos. Most often paired with Editorial, Minimal or Corporate.
 - **Elements:** renders and photos of the property, floor plans (clean, with areas), a location map with times to points, construction progress by date, amenities as chips or icons, purchase terms.

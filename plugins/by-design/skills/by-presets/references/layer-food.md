@@ -3,7 +3,6 @@
 Part of the by-presets skill. Read together with its SKILL.md.
 
 ### Food — a layer for food and restaurants
-Board for refinement (optional): `preset-food`.
 - **For whom:** restaurants, cafés, coffee shops, bars, street food, delivery, patisseries.
 - **Important: Food isn't a standalone style but a layer.** It always comes paired with a second preset: restaurants are too different (a lively Italian trattoria and a minimalist Japanese place). Record: "Preset: Food + Minimal". The second half isn't set — choose by the brand's signals or ask; in doubt show the cover in 2–3 variants.
 

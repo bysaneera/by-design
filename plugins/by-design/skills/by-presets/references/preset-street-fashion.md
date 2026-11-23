@@ -3,7 +3,6 @@
 Part of the by-presets skill. Read together with its SKILL.md.
 
 ### Street / Fashion
-Board for refinement (optional): `preset-street`.
 - **For whom:** fashion, footwear, streetwear, vintage and resale, showrooms and pop-ups, youth brands, music, galleries and creative studios.
 - **Character:** a fashion editorial from the street. Lively, slightly raw, "handmade" (photocopy, a scrawl, a tag, a scanner), but with the clear structure of a lookbook. Intentional imperfection is in the texture and photos, not in readability.
 

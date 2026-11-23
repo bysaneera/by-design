@@ -86,26 +86,6 @@ A brand can take devices from several presets. One rule: **one base preset sets 
 
 In the summary after the work state what was taken from which preset.
 
-## Extending presets with your own boards (optional)
-
-The presets were compiled from analysing several hundred references in total (dozens per preset and layer). You can keep refining them with your own Pinterest boards: name them by convention and give the profile link once (it's saved in memory or the project instructions).
-
-| Board name | Feeds |
-|---|---|
-| `composition` | Editorial + the by-composition foundation |
-| `preset-corporate` | Corporate |
-| `preset-tech` | Fintech / Tech (and Friendly Tech) |
-| `preset-health` | Health / Science |
-| `preset-bold` | Bold / Pop (all sub-styles) |
-| `preset-minimal` | Minimal |
-| `preset-cute` | Cute / Playful |
-| `preset-street` | Street / Fashion |
-| `preset-home` | Lifestyle / Home |
-| `preset-beauty`, `preset-auto`, `preset-real-estate`, `preset-holidays`, `preset-cultural`, `preset-food`, `preset-promo` | the matching layers |
-| `motion-design` | the by-motion technique library |
-
-A new `preset-…` board = a candidate for a new preset or sub-style. When asked to "analyse the boards" (or on a weekly scheduled task the user sets up), open each board in the browser, look at pins added since the last analysis (new pins are on top; keep a small table "board · pins at last analysis · date" in memory or the project), and propose edits to the cards: a new device, a new layout number, a refined rule. Edits are applied only after the user's OK.
-
 ## Sphere and occasion layers
 
 Like Food and Promo: a layer sits on top of the base style. **The approach (fonts, grid, energy, amount of decoration) comes from the base preset, the sphere's elements and objects — from the layer.** Objects from the base preset are translated into the sphere's language (like tags → receipts in Food). Record: "Preset: Editorial + Beauty". Layers can be stacked ("Minimal + Real Estate + Promo"). Layer devices are drawn in the base preset's language: if a device breaks it (plates in Minimal), take another device from the layer. A sphere without its own layer (events, education, etc.) is served by the base preset — most often Corporate.

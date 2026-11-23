@@ -3,7 +3,6 @@
 Part of the by-presets skill. Read together with its SKILL.md.
 
 ### Beauty
-Board for refinement (optional): `preset-beauty`.
 - **For whom:** cosmetics, skincare, hair dye, make-up, beauty salons, nails. Common pairs: Editorial + Beauty, Minimal + Beauty, Cute + Beauty, Health + Beauty (dermocosmetics).
 - **Elements:** swatches and textures large; a shade palette with numbers (for hair dye — strands or colour plates labelled like a catalogue); before/after — only the client's real photos, same light and angle, no retouching of the result; "how to apply" in steps; ingredients and actives; the product in hand and on skin.
 - **Attention:** the shade colour isn't distorted by preset filters or toning; effect claims — only from the client's text. Don't generate skin, hair, the result or the shade on a person (A9). Study percentages — only from the client, with a footnote (who, how many people, when). Paired with Health, before/after — only skin or hair in close-up, with the client's and the person's consent, without promising a medical result; figure and body — never.

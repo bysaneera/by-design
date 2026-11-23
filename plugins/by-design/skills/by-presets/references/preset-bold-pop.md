@@ -3,7 +3,6 @@
 Part of the by-presets skill. Read together with its SKILL.md.
 
 ### Bold / Pop
-Board for refinement (optional): `preset-bold`.
 - **For whom:** energy drinks, beverages, food and delivery, fast food, taxis, mass-market services, sport, youth brands, events, sales with character.
 - **Character:** loud, bold, with humour; seen in half a second. The freest preset: lots of graphics, illustrations, textures, play with type. That's exactly why the aesthetics are chosen strictly.
 

@@ -3,7 +3,6 @@
 Part of the by-presets skill. Read together with its SKILL.md.
 
 ### Auto
-Board for refinement (optional): `preset-auto`.
 - **For whom:** car dealers and car brands, car service, car accessories.
 - **Elements:** the car is the hero of the frame, classic angles (3/4 front, profile, detail), dynamics, interior; specs as large numbers per A7; trim levels as a comparison; test drive and showroom address.
 - **Attention:** the car and logo aren't generated (A9), the body colour doesn't change; credit and leasing terms — as legal text per A6. Specs, range, prices, rates and body colours — only from the client or the model's official website, with the source.
